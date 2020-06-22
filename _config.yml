@@ -1,11 +1,11 @@
 # Site settings
-author: A. Kelso
-title: 
+author: Andy Kelso
+title: Kelso Code
 header-img: img/home-bg.png
 email: ajkelso@gmail.com
-copyright_name: A. Kelso
+copyright_name: Andy Kelso
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey through Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ajkelso
