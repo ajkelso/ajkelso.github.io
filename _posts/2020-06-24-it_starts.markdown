@@ -1,0 +1,23 @@
+---
+layout: post
+title:      "It starts."
+date:       2020-06-24 19:22:39 +0000
+permalink:  it_starts
+---
+
+## Bootcamp in quarentine
+
+"How did 2 accountants wind up with a son who's an actor?"  I get this question a lot.  My parents-now retired- were both accountants and I, for my entire adult life, somehow ended up being an actor/singer/performer. It never seemed to make sense to people and, to be honest, I'm not sure I ever understood how it happened either.  
+
+And yet, here I am.  
+
+They say the Left side of the brain is responsible for things like Math, Science, and Logic while the Right side of the brain is responsible for things like Arts, Music, and Imagination, and most people would find it pretty easy to put themselves into one category or the other.  Not me.  In school, many actors tend to be far more comfortable with reading and writing than with math and science, and I couldn't be more opposite.  Maybe it was inherited from my parents’ chosen professions, but I have always been more into math and science and hated writing essays and reading assignments in school.  And yet, I still ended up with an arts degree, on stage or in front of a camera, and loving every minute of it.
+
+However, the career of an actor never did run smooth, and as my lifestyle and responsibilities have changed, I've found myself limited in the jobs I am able to take and still support a family.  Only a handful of gigs can fully pay the bills and sometimes those gigs only last a couple months and/or are few and far between.  I still love it, but have found that I need a way to get through the inevitable dry spells that comes with such a career.
+
+Enter: coding.  Besides hearing that software engineering is a very “in demand” career that you could possibly do remotely, I didn’t know much about coding before I started Flatiron.  I had designed personal websites with the online website builders, and had copied and pasted some HTML here or there, but generally had no idea what I was getting myself into.  Would it be boring? Could i “get it”? Would I be miserable doing it?  
+
+I started the bootcamp prep to find out.  And after getting past the first few lessons and starting to understand what coding is a little bit better, I found that not only was I not bored by it, but I was excited by it.  Yes, it can be tough, confusing, and frustrating at times, but it is also incredibly satisfying when a concept clicks or when that tricky problem gets solved.  I have also been pleasantly surprised that coding can actually be a creative outlet and that there are often multiple ways to solve a problem.  While I was initially attracted to this career only as a means to and end, I have already found that I am inspired by it and that it is already so much more.
+
+It’s only the beginning of my journey, but it seems that coding will be a great fit for a son of 2 accountants who’s made a career as an artist: a little Left Brained and a little Right.  I’m still not sure of where this journey will take me.  Is it possible to balance a career in coding with a separate career in acting?  Or is this that start of a complete career transition?  Only time will tell.  But I am excited to find out and look forward to being asked the question, “How did an actor like yourself end up with a career in software engineering?”
+
