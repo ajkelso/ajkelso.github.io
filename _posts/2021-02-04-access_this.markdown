@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Access THIS"
-date:       2021-02-04 19:37:48 +0000
+date:       2021-02-04 14:37:49 -0500
 permalink:  access_this
 ---
 
@@ -9,7 +9,7 @@ Javascript and its use of first class functions took a bit of getting used to.  
 
 It started as I was building out a reset button for my Virtual Lite-Brite app.  The reset button's job would be to reset the Lite-Brite canvas to either a clean slate or to the last saved version of the user's drawing.  It would also disable itself and it's sister 'save-button' once the canvas had been reset.   
 
-The reset button was created within my `SideBar` class.  Creating a new instance of `SideBar` accepts a `drawing` object which would then assign the `drawing` object to `this.object`...`this` being the instance of `SideBar`:
+The reset button was created within my `SideBar` class.  Creating a new instance of `SideBar` accepts a `drawing` object which would then assign the `drawing` object to `this`...`this` being the instance of `SideBar`:
 
 ```
 class SideBar {
